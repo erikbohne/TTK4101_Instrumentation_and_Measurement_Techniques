@@ -15,7 +15,7 @@ from tikzplotlib import save as save_tikz #MERK: dette biblioteket er ikke stand
 #    "font.sans-serif": ["Helvetica"]})
 
 # Her kan dere legge inn flere filer om dere trenger det
-fileName = "CHAN1"
+fileName = "CHAN4"
 file1 = f"csv-testfiler/{fileName}.csv"
 
 #leser csv-fila
